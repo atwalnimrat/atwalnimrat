@@ -95,7 +95,7 @@ If you want to chat about dev, music, or bikes—DM me on
 
   <!-- Socials -->
   <a href="https://www.instagram.com/nimratkauratwal/">
-    <img src="assets/insta-pink.avif" alt="Instagram" width="40" height="40"/>
+    <img src="assets/instagram.png" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nimrat-atwal-1536a1270">
