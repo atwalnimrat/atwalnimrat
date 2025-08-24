@@ -89,16 +89,7 @@
 </div>
 
 <!-- Snake -->
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all-dark.svg" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all-light.svg" />
-    <!-- Default / fallback -->
-    <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all.svg" alt="All-time Snake animation" />
-  </picture>
-</p>
+<img src="https://raw.githubusercontent.com/LavaCandy1/LavaCandy1/output/snake.svg" alt="Snake animation" />
 
 ---
 
