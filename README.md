@@ -88,10 +88,17 @@
     alt="Top Languages" height="165" />
 </div>
 
+<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all-light.svg" />
+    <!-- Default / fallback -->
+    <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all.svg" alt="All-time Snake animation" />
+  </picture>
 </p>
-
 
 ---
 
