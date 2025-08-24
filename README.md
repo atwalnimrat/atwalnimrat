@@ -89,7 +89,7 @@
 </div>
 
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/LavaCandy1/LavaCandy1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-2024.svg" alt="2024 snake" />
 
 ---
 
