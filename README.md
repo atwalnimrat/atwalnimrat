@@ -3,32 +3,43 @@
   
   <!-- Typing Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&color=FFB6C1&lines=Hey+there!+I'm+Nimrat+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimrat+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 <br>
 <!-- Static Tagline as SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=3BA55D&center=true&vCenter=true&width=700&lines=Biker+🏍️+Coder+💻+Melophile+🎵" alt="Static Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Biker+🏍️+Coder+💻+Melophile+🎵" alt="Static Tagline" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=atwalnimrat&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-
-
-  <!-- Views (optional) -->
   
 </div>
 
 
 ### 👋 About Me
-- 🧠 I enjoy building with **Python**, **JavaScript/TypeScript**
-- ☁️ Tinkering with **AWS** + **Terraform**
-- 🤝 Open to collaborating on **Data Science projects** 
-- 🎵 Music on loop; 🏍️ weekend rides; 👩🏻‍💻late-night coding sprints
 
----
+<table align="center">
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      
+- 🧠 I enjoy building with <b>Python</b>, <b>JavaScript/TypeScript</b>  
+- ☁️ Tinkering with <b>AWS</b> + <b>Terraform</b>  
+- 🤝 Open to collaborating on <b>Data Science projects</b>  
+- 🎵 Music on loop; 🏍️ weekend rides; 👩🏻‍💻 late-night coding sprints  
+
+    </td>
+    <td style="width: 30%; padding-left: 30px;">
+      <img src="assets/koga-san.jpg" alt="koga" width="200" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 
 ### 🛠️ Tech Stack
+<br>
 <p>
   <!-- Languages & Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -84,7 +95,7 @@ If you want to chat about dev, music, or bikes—DM me on
 
   <!-- Socials -->
   <a href="https://www.instagram.com/nimratkauratwal/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:E4405F;"/>
+    <img src="assets/insta-pink.avif" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nimrat-atwal-1536a1270">
