@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: atwalnimrat
           outputs: |
-            dist/snake-all.svg?palette=github-dark&year=2024
+            dist/snake-all.svg?palette=github-dark #only supports current year
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
