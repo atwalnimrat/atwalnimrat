@@ -89,7 +89,7 @@
 </div>
 
 <!-- Snake -->
-  <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-2024.svg" alt="2024 snake" />
+  <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all.svg" alt="snake" />
 
 ---
 
