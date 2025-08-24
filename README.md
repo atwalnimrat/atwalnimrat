@@ -88,6 +88,10 @@
     alt="Top Languages" height="165" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 💬 Connect
