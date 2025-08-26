@@ -2,7 +2,8 @@ name: Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # every day at 6 AM UTC
+    - cron: "0 * * * *"   # every hour 
+
   workflow_dispatch:      
 
 jobs:
