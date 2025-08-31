@@ -2,7 +2,7 @@ name: Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 0 * * *"    #daily
 
   workflow_dispatch:      
 
@@ -12,6 +12,6 @@ jobs:
     steps:
       - name: Ping GitHub Readme Stats
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=atwalnimrat&show_icons=true&theme=radical" > /dev/null
-          curl -s "https://github-readme-streak-stats.herokuapp.com?user=atwalnimrat&theme=dark&hide_border=false" > /dev/null
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight" > /dev/null
+          curl --retry 3 --retry-delay 5 --max-time 20 -s "https://github-readme-stats.vercel.app/api?username=atwalnimrat&show_icons=true&theme=radical" > /dev/null
+          curl --retry 3 --retry-delay 5 --max-time 20 -s "https://github-readme-streak-stats.herokuapp.com?user=atwalnimrat&theme=dark&hide_border=false" > /dev/null
+          curl --retry 3 --retry-delay 5 --max-time 20 -s "https://github-readme-stats.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight" > /dev/null
