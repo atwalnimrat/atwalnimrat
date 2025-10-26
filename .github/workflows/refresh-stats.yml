@@ -1,9 +1,8 @@
 name: Refresh GitHub Stats
 
 on:
-  push:
-    branches:
-      - main       #Default branch      
+  schedule:
+    - cron: "0 3 * * *"    #daily     
 
   workflow_dispatch:      
 
