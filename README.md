@@ -109,18 +109,18 @@
 If you want to chat about dev, music, or bikes—DM me on 
 
   <!-- Socials -->
-  <a href="https://discord.com/users/pewpewnima" target="_blank">
-  <img src="assets/discord.png" 
-       alt="Discord" width="40" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/nimrat-atwal-1536a1270">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 &nbsp;&nbsp;
   <a href="https://www.instagram.com/nimratkauratwal/">
     <img src="assets/instagram.png" alt="Instagram" width="40" height="40"/>
   </a>
  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nimrat-atwal-1536a1270">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  <a href="https://discord.com/users/pewpewnima" target="_blank">
+  <img src="assets/discord.png" 
+       alt="Discord" width="40" height="40" />
+</a>
 
 
 
