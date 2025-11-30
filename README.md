@@ -88,15 +88,15 @@
 <div align="center">
   
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=atwalnimrat&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=atwalnimrat&show_icons=true&theme=radical&cache_seconds=7200"
     alt="GitHub Stats" height="165" />
   
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=atwalnimrat&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=atwalnimrat&theme=dark&hide_border=false&cache_seconds=7200"
     alt="GitHub Streak" height="165" />
   
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight&cache_seconds=7200"
     alt="Top Languages" height="165" />
 </div>
 
