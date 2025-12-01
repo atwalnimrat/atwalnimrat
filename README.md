@@ -98,7 +98,6 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight&cache_seconds=7200"
     alt="Top Languages" height="165" />
-</div>
 
 <!-- Snake -->
   <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all.svg" alt="snake" />
@@ -107,6 +106,7 @@
   <a href="[https://github.com/atwalnimrat](https://github.com/ashutosh00710/github-readme-activity-graph)">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atwalnimrat&theme=github-compact" alt="GitHub Activity Graph" />
   </a>
+</div>
 
 ---
 
