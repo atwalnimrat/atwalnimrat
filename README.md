@@ -3,14 +3,14 @@
   
   <!-- Typing Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimrat+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=600&center=true&vCenter=true&width=700&color=a9fef7&lines=Hey+there!+I'm+Nimrat+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 <br>
 <!-- Static Tagline as SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Biker+🏍️+Coder+💻+Melophile+🎵" alt="Static Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1&pause=100000000&color=fe428e&center=true&vCenter=true&width=700&lines=Biker+🏍️+Coder+💻+Melophile+🎵" alt="Static Tagline" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=atwalnimrat&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=atwalnimrat&label=Profile%20views&color=141321&style=flat" alt="views" />
 </p>
 
   
@@ -96,7 +96,7 @@
     alt="GitHub Streak" height="165" />
 
   <img
-    src="https://github-readme-stats-pi-dun.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=tokyonight&cache_seconds=7200"
+    src="https://github-readme-stats-pi-dun.vercel.app/api/top-langs/?username=atwalnimrat&layout=compact&theme=radical&cache_seconds=7200"
     alt="Top Languages" height="165" />
 
 <!-- Snake -->
