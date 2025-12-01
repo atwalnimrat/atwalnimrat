@@ -103,6 +103,11 @@
 <!-- Snake -->
   <img src="https://raw.githubusercontent.com/atwalnimrat/atwalnimrat/output/snake-all.svg" alt="snake" />
 
+<!-- Graph -->
+  <a href="[https://github.com/atwalnimrat](https://github.com/ashutosh00710/github-readme-activity-graph)">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atwalnimrat&theme=github-compact" alt="GitHub Activity Graph" />
+  </a>
+
 ---
 
 ### 💬 Connect
