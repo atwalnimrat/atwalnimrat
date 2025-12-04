@@ -25,7 +25,7 @@
       
 - 🧠 I enjoy building with <b>Python</b>, <b>JavaScript/TypeScript</b>  
 - ☁️ Tinkering with <b>AWS</b> + <b>Terraform</b>  
-- 🤝 Open to collaborating on <b>Data Science projects</b>  
+- 🤝 Open to collaborating on <b>Python projects</b>  
 - 🎵 Music on loop; 🏍️ weekend rides; 👩🏻‍💻 late-night coding sprints  
 
     </td>
