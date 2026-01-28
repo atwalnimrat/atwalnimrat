@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/plyer-555555?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/psutil-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pygame-1E7A3A?logo=pygame&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/pyqtgraph-FFB000?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/rich-DB1F48?logo=python&logoColor=white&style=for-the-badge" />
