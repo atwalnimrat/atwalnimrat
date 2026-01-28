@@ -94,7 +94,7 @@
     alt="GitHub Stats" height="165" />
   
   <img 
-    src="https://streak-stats.demolab.com/?user=atwalnimrat&theme=dark&hide_border=false&cache_seconds=7200"
+    src="https://github-readme-streak-stats-kappa-sooty.vercel.app/?user=atwalnimrat&theme=dark&hide_border=false&cache_seconds=7200"
     alt="GitHub Streak" height="165" />
 
   <img
