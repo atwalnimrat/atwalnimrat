@@ -24,7 +24,7 @@
     <td style="vertical-align: top; width: 70%;">
       
 - 🧠 I enjoy building with <b>Python</b>, <b>JavaScript/TypeScript</b>  
-- ☁️ Tinkering with <b>AWS</b> + <b>Terraform</b>  
+- ☁️ Tinkering with <b>AI/ML</b> + <b>NLP</b>  
 - 🤝 Open to collaborating on <b>Python projects</b>  
 - 🎵 Music on loop; 🏍️ weekend rides; 👩🏻‍💻 late-night coding sprints  
 
@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" />
   <br>
   <!-- Python libraries -->
+  <img src="https://img.shields.io/badge/fastText-1877F2?logo=meta&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20API%20Client-4285F4?logo=google&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
@@ -81,6 +83,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tqdm-FFC107?logo=tqdm&logoColor=000&style=for-the-badge" />
 </p>
 
 
