@@ -52,10 +52,24 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <br>
+   <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uvicorn-111111?logo=uvicorn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
+  <br>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <br>
+    <!-- ML / AI -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <br>
+  <!-- AI / LLM Integrations -->
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/fastText-1877F2?logo=meta&logoColor=white&style=for-the-badge" />
   <br>
   <!-- Cloud & Infra -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge" />
@@ -68,8 +82,6 @@
   <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" />
   <br>
   <!-- Python libraries -->
-  <img src="https://img.shields.io/badge/fastText-1877F2?logo=meta&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20API%20Client-4285F4?logo=google&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
@@ -80,7 +92,6 @@
   <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/pyqtgraph-FFB000?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/rich-DB1F48?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/tqdm-FFC107?logo=tqdm&logoColor=000&style=for-the-badge" />
